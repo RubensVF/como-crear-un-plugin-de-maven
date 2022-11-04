@@ -36,7 +36,7 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-      <plugin>
+      <!-- <plugin>
        <groupId>com.rubscode.plugins</groupId>
         <artifactId>generador-de-codigo</artifactId>
         <version>1.0-SNAPSHOT</version>
@@ -44,7 +44,7 @@
           <inputFile>user.txt</inputFile>
           <packageName>com.rubscode.plugins</packageName>
         </configuration>
-      </plugin>
+      </plugin> -->
     </plugins>
   </build>
 </project>
