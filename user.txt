@@ -1,0 +1,4 @@
+nombre: String
+edad: Integer
+email: String
+id: Integer
